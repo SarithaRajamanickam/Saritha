@@ -1,0 +1,8 @@
+abstract class Creation1
+{
+    void method();
+}
+class Object1
+{
+    
+}
